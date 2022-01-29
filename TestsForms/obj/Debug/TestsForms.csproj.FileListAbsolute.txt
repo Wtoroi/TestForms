@@ -1,0 +1,15 @@
+E:\Б-А\MyPrograms\TestsForms\TestsForms\bin\Debug\TestsForms.exe.config
+E:\Б-А\MyPrograms\TestsForms\TestsForms\bin\Debug\TestsForms.exe
+E:\Б-А\MyPrograms\TestsForms\TestsForms\bin\Debug\TestsForms.pdb
+E:\Б-А\MyPrograms\TestsForms\TestsForms\obj\Debug\TestsForms.csprojAssemblyReference.cache
+E:\Б-А\MyPrograms\TestsForms\TestsForms\obj\Debug\TestsForms.Form1.resources
+E:\Б-А\MyPrograms\TestsForms\TestsForms\obj\Debug\TestsForms.Properties.Resources.resources
+E:\Б-А\MyPrograms\TestsForms\TestsForms\obj\Debug\TestsForms.csproj.GenerateResource.cache
+E:\Б-А\MyPrograms\TestsForms\TestsForms\obj\Debug\TestsForms.csproj.CoreCompileInputs.cache
+E:\Б-А\MyPrograms\TestsForms\TestsForms\obj\Debug\TestsForms.exe
+E:\Б-А\MyPrograms\TestsForms\TestsForms\obj\Debug\TestsForms.pdb
+E:\Б-А\MyPrograms\TestsForms\TestsForms\bin\Debug\FontAwesome.Sharp.dll
+E:\Б-А\MyPrograms\TestsForms\TestsForms\obj\Debug\TestsForms.csproj.CopyComplete
+E:\Б-А\MyPrograms\TestsForms\TestsForms\obj\Debug\TestsForms.Forms.Gallery.resources
+E:\Б-А\MyPrograms\TestsForms\TestsForms\obj\Debug\TestsForms.Forms.Profile.resources
+E:\Б-А\MyPrograms\TestsForms\TestsForms\obj\Debug\TestsForms.Forms.Painter.resources
